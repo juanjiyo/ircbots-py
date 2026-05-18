@@ -1,0 +1,100 @@
+[ciudades]
+Algeciras
+Almeria
+Antequera
+Aracena
+Ayamonte
+Cadiz
+Cordoba
+Dos Hermanas
+Granada
+Huelva
+Jaen
+Jerez de la Frontera
+Malaga
+Moron
+Sevilla
+Sierra Morena
+Sierra Segura
+Torremolinos
+Alcarria
+Barbastro
+Calatayud
+Moncayo
+Fraga
+Monegros
+Gudar
+Huesca
+Jaca
+Monzon
+Zaragoza
+Ordesa
+Benasque
+Teruel
+Aviles
+Cangas
+Gijon
+Luarca
+Oviedo
+Ibiza
+Palma
+Fuerteventura
+Lanzarote
+Las Palmas
+Santander
+Avila
+Burgos
+Leon
+Palencia
+Ponferrada
+Salamanca
+Segovia
+Soria
+Valladolid
+Zamora
+Albacete
+Ciudad Real
+Cuenca
+Guadalajara
+Toledo
+Barcelona
+Hospitalet
+Lleida
+Manresa
+Tarragona
+Alcoi
+Alicante
+Benicassim
+Benidorm
+Castellon
+Torrevieja
+Valencia
+Badajoz
+Caceres
+Merida
+A coruña
+Coruña
+Ferrol
+Lugo
+Santiago de Compostela
+Compostela
+Pontevedra
+Vigo
+Calahorra
+Logroño
+Alcorcon
+Aranjuez
+Madrid
+Cartagena
+Molina del Segura
+Murcia
+Lorca
+Elizondo
+Pamplona
+Tudela
+Bilbao
+Eibar
+San Sebastian
+Vitoria
+Ceuta
+Melilla

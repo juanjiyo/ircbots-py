@@ -1,0 +1,6582 @@
+{
+    "ind0mita": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 6500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779014510.415805
+    },
+    "juanjo_jaen": {
+        "mano": {
+            "euros": 1503499,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 5497
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": true,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779023627.2914138
+    },
+    "estreya": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 6500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779017886.7242455
+    },
+    "arianna": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 5500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778996285.9317217
+    },
+    "multiefecto": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 4500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778983916.2293367
+    },
+    "qbanita": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779025189.620017
+    },
+    "corr3ctor": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778878612.6582968
+    },
+    "vico": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778661635.9092429
+    },
+    "siegfried": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 4500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779010132.219116
+    },
+    "abuelodes": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778670951.509001
+    },
+    "alfha_fina": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778863490.2383363
+    },
+    "cubanita83": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778690812.2801259
+    },
+    "guuille": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035738.098712
+    },
+    "elotro": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778698949.2689383
+    },
+    "mamba_negra": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778880920.5323093
+    },
+    "cristina5": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778699051.4146783
+    },
+    "last_damned": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778878164.980237
+    },
+    "mante_kiya": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885727.5995667
+    },
+    "b0tcit0": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778882681.3597054
+    },
+    "libra29": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 4500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035434.9606297
+    },
+    "manuel57": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778699248.6062982
+    },
+    "mexican_power": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778940637.2405424
+    },
+    "fresa": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885358.7245338
+    },
+    "morvari": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778732393.3920226
+    },
+    "cabezadtrapo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778732472.3855834
+    },
+    "__rebel_man__": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778738463.8229222
+    },
+    "joshua24": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778738475.8150795
+    },
+    "nefertiti": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778832529.960521
+    },
+    "julieta_26": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779000708.721839
+    },
+    "lunar": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778882975.2790608
+    },
+    "elmasmejor": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778769729.9870627
+    },
+    "elencantador": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778770151.149208
+    },
+    "jau314": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778770338.0064564
+    },
+    "argentin07": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778772631.1965525
+    },
+    "keto": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778887960.620197
+    },
+    "chatea7905": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778892279.7181358
+    },
+    "unone72": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778774478.2041116
+    },
+    "dmm91": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778774719.6946676
+    },
+    "cauto": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778775771.0442274
+    },
+    "munekka": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778777916.8622427
+    },
+    "chatea9624": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778778621.795639
+    },
+    "nikklta": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778779057.2500558
+    },
+    "larubiadelaisla": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778780878.1084025
+    },
+    "danygenio23": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778877283.3619401
+    },
+    "tuprimito": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778784740.1788402
+    },
+    "dookie": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778786483.502754
+    },
+    "ipsiloncarinae": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778888427.7244916
+    },
+    "ipsiloncarinae77": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778788150.9487858
+    },
+    "rxrxt": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778788812.531067
+    },
+    "denhell": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778789008.9927573
+    },
+    "chatea9376": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778789045.6182702
+    },
+    "conseguirquererme": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778789953.5632348
+    },
+    "champagne_": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778790456.694397
+    },
+    "raquel": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778886846.484719
+    },
+    "factory_boy": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778790907.8883922
+    },
+    "tiomadrid": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778791001.7576265
+    },
+    "yellow": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778791457.7408257
+    },
+    "diana8": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885612.1903393
+    },
+    "inxsvellud0": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778884797.696846
+    },
+    "sssantim": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778791926.2046826
+    },
+    "tranki": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778791965.0237553
+    },
+    "angy709": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885239.9899974
+    },
+    "lina10": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778792553.2335718
+    },
+    "oiz": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885215.7816336
+    },
+    "martu": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778793107.709253
+    },
+    "jay314": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035872.1826692
+    },
+    "raquel1": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778793466.480432
+    },
+    "canelamorena": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778793514.0844667
+    },
+    "satanas": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778898138.718902
+    },
+    "mita": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778793892.9139047
+    },
+    "jesus3491": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778795673.678521
+    },
+    "lucifer": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778883638.0082405
+    },
+    "amnesiaselectiva8": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778796678.7361543
+    },
+    "nemo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 3500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035929.4756908
+    },
+    "ssantim": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778797546.249481
+    },
+    "yellow_mellow": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778798452.4435148
+    },
+    "amante_bandido": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778798887.5943856
+    },
+    "abner": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779000711.3660254
+    },
+    "indalecia": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778801890.6876292
+    },
+    "champagne": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778801945.092803
+    },
+    "cradle": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778803660.5715604
+    },
+    "gorditaa": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778804550.3986266
+    },
+    "zzzzz": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779000715.1135154
+    },
+    "nuages": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778892406.891798
+    },
+    "el___caterva_77__": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778807084.8890269
+    },
+    "charro": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778807629.7229059
+    },
+    "demian9": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778808200.6689744
+    },
+    "casa2mty": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778808362.2271235
+    },
+    "lalala8": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778808531.278023
+    },
+    "tuchiko": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778808968.6852984
+    },
+    "lilith26": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778809665.2297585
+    },
+    "vanesa": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778905994.6067812
+    },
+    "alejandro_mango": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778896749.0967152
+    },
+    "siniestro": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778810269.9658766
+    },
+    "abyssweaver": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778811022.668237
+    },
+    "simbat54": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778811661.1980748
+    },
+    "chiica-": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778811721.7957733
+    },
+    "carolap": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778812994.9488635
+    },
+    "evadevenus77": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778813131.8857193
+    },
+    "andres_4324": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778813428.180875
+    },
+    "rocoxn": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778813639.776769
+    },
+    "friedrich_zoller2026": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778814683.5599365
+    },
+    "viajeastral": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778817042.4238906
+    },
+    "exagerado": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778817678.6858478
+    },
+    "francoh": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778817916.364373
+    },
+    "danieliitaa": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778817951.523666
+    },
+    "aniktrooop": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778818717.6528487
+    },
+    "warrior_blue": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778818779.7176094
+    },
+    "cavallero": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778819239.5473185
+    },
+    "berenice": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778819715.2475755
+    },
+    "senior-62": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778820021.2121477
+    },
+    "txrxtxtx": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778820393.0242639
+    },
+    "valera": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778820776.3059385
+    },
+    "anikoloon": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778820995.514009
+    },
+    "levana": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778821689.847525
+    },
+    "cause_of_death": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778821891.721162
+    },
+    "nahoo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778821977.2957096
+    },
+    "guest52380": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778822027.2011523
+    },
+    "franco_75": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778822037.0991008
+    },
+    "_hndrx_": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778822459.9256392
+    },
+    "flora": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778822533.4258406
+    },
+    "evangelinaesmeralda": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778823160.2625453
+    },
+    "jota38": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778823553.5215733
+    },
+    "lando": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778823798.6445606
+    },
+    "toobn": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778823838.8266392
+    },
+    "fr": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778824613.8129377
+    },
+    "ucykun": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778912385.534324
+    },
+    "lizz47": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778824920.9786985
+    },
+    "mango": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778825483.6288016
+    },
+    "dnnii171625": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778825728.6935017
+    },
+    "kamila": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778826937.3586693
+    },
+    "confusion": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778827111.1162694
+    },
+    "viejamorena": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778827123.0731697
+    },
+    "tru": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778828561.7138147
+    },
+    "josep": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778830551.796303
+    },
+    "maikolyakson": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778831747.2444541
+    },
+    "vega": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778833207.0211797
+    },
+    "turu": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778835055.6432822
+    },
+    "flashimax": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778835158.5528924
+    },
+    "pigmaleon": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778836776.149949
+    },
+    "alexandria": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778837098.702081
+    },
+    "reynero": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778837928.3691359
+    },
+    "infinit": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778839800.432496
+    },
+    "ferr_": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778841091.843199
+    },
+    "rudo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778853336.35384
+    },
+    "jay7": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778853872.9276145
+    },
+    "ramses73": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778856363.7086346
+    },
+    "ramses": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778856717.213182
+    },
+    "maryory45": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778859280.3156538
+    },
+    "magic": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778859307.4336398
+    },
+    "el_furro": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778859752.9631135
+    },
+    "kiya_mante": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778860785.6184459
+    },
+    "juan19": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778861241.7782845
+    },
+    "tomoe": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778862459.6090634
+    },
+    "alberto": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778862590.7860854
+    },
+    "colegapeludo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778864969.2641232
+    },
+    "nickolas": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778865159.183875
+    },
+    "jusa": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778866314.2283492
+    },
+    "_zeta": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035721.4467058
+    },
+    "elpesao": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779017045.140025
+    },
+    "milaneso": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778868290.3821578
+    },
+    "nexa": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778868345.7872908
+    },
+    "caballero-devalor": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778868620.7733715
+    },
+    "superlativo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778869083.5452044
+    },
+    "st_antagonista": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778869111.853904
+    },
+    "carly8": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778869529.39058
+    },
+    "lucia6": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778870280.8601615
+    },
+    "psicoguitarrista": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778870621.380437
+    },
+    "invitado-0": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778871299.4656944
+    },
+    "lulo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778872016.381994
+    },
+    "por_mis_": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778872321.724659
+    },
+    "factotum": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778874430.5657287
+    },
+    "atropmieteuq": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778874827.6704128
+    },
+    "simone": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778874898.498405
+    },
+    "mudito": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778875371.2094774
+    },
+    "ric3vo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778877346.1069238
+    },
+    "shuraka": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778878244.714922
+    },
+    "hawks": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778880071.004759
+    },
+    "psicotico": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778880089.1590877
+    },
+    "tumisterioso": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778880117.5309758
+    },
+    "simpatico46": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778880414.96487
+    },
+    "sandy35": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778881343.9592206
+    },
+    "bananino": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778881984.4691029
+    },
+    "lnhumano": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778882060.6448753
+    },
+    "zzzz": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778882591.2666113
+    },
+    "andrea": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778882798.1232834
+    },
+    "xabibbibi": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778884337.277102
+    },
+    "angelical": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778884889.1755476
+    },
+    "sukali": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778884944.4025834
+    },
+    "liiac": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885128.1609695
+    },
+    "gorotico": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885508.2208862
+    },
+    "lunnie": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778885990.7852693
+    },
+    "duranki": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778886245.4635806
+    },
+    "n3w": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778887116.5641265
+    },
+    "starkid": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778887447.0661793
+    },
+    "martu90": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778887823.7306588
+    },
+    "soymax": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778887950.8589377
+    },
+    "rumzort": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778888444.2081895
+    },
+    "bellexima_": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778889176.7279751
+    },
+    "iki": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778889333.9954095
+    },
+    "hades30": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778889854.204506
+    },
+    "el_caterva77": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778890013.6511369
+    },
+    "moos": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778890537.2537134
+    },
+    "_leonardo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778890566.1757221
+    },
+    "cinnabarit": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778891203.386593
+    },
+    "machin00": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778891687.8997898
+    },
+    "baylando": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778892048.3616443
+    },
+    "ipsiloncarinae49": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778892335.729958
+    },
+    "yehudayah77": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778892496.6366525
+    },
+    "machin93": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778892715.487946
+    },
+    "__khan__": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778893651.8865206
+    },
+    "nancy35": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778894158.9689996
+    },
+    "patobonato": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778894292.3128095
+    },
+    "caro": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778895150.5681915
+    },
+    "diaconus": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778895956.715511
+    },
+    "mauronplay": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778896009.5491881
+    },
+    "kiara48": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778896479.2997227
+    },
+    "demian": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778897081.2940462
+    },
+    "tori": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778897176.8452551
+    },
+    "romartin32": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778897484.212591
+    },
+    "cactus": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 2500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778984540.3212426
+    },
+    "pato_mcdonalds40": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778898344.6634307
+    },
+    "hamachiac777": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778899801.8087993
+    },
+    "consejero-cristiano": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778974765.4075704
+    },
+    "raul45sp": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778976461.2754636
+    },
+    "vanesita": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778977096.4104197
+    },
+    "dani36": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778980480.3846173
+    },
+    "asap-rocky": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778988209.701809
+    },
+    "guest64700": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1778995125.3928664
+    },
+    "lizz": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779000710.6474092
+    },
+    "fernandinhoo": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779000714.0865357
+    },
+    "pop": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779000745.966976
+    },
+    "violeta1": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035422.8154233
+    },
+    "kaiaumbra": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779035782.1791582
+    },
+    "donix": {
+        "mano": {
+            "euros": 500000,
+            "tickets": 50,
+            "lingotes": 10,
+            "diamantes": 10,
+            "esmeraldas": 0,
+            "llaves": 0,
+            "fichas": 0,
+            "tiradas": 1500
+        },
+        "banco": {
+            "euros": 0,
+            "tickets": 0,
+            "lingotes": 0,
+            "diamantes": 0,
+            "esmeraldas": 0,
+            "fichas": 0
+        },
+        "vip": false,
+        "deuda": 0,
+        "respeto": 0,
+        "maldiciones": 0,
+        "botes_ganados": 0,
+        "intentos_sin_tiradas": 0,
+        "ultima_recompensa": 0,
+        "ultima_tirada_diaria": 1779036909.406403
+    }
+}

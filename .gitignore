@@ -1,0 +1,116 @@
+# ── Secrets ──────────────────────────────────────
+*.conf
+*GLOBAL_AI_HUB.json
+config/config.json
+scripts/wsl_key
+scripts/wsl_key.pub
+*_key
+*.pem
+*.key
+
+# ── Runtime data ─────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+autojoin.json
+conversation_history.json
+channel_states.json
+debug_output.txt
+*.startup.log
+*.startup.err
+*.crash.log
+*.boot.log
+*.runtime.log
+err.txt
+out.txt
+db/
+logs/
+backups/
+*.zip
+
+# ── Backups / temp ──────────────────────────────
+BAK/
+.bak/
+*.bak
+.DS_Store
+Thumbs.db
+
+# ── Node (stub) ──────────────────────────────────
+node_modules/
+
+# ── IDE ──────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Binaries / media ────────────────────────────
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.dll
+*.exe
+*.zip
+*.tar.gz
+*.tgz
+
+# ── mIRC scripts (no forman parte del proyecto Python) ─
+bots/Bot-Guardian/
+bots/mIRC/
+mIRC/
+
+# ── Node (stub) ──────────────────────────────────
+node_modules/
+.pnpm/
+
+# ── Repos anidados / terceros ────────────────────
+bots/milenium/stats_engine/pisg-0.73/
+
+# ── Legacy / backups / misc ─────────────────────
+BRAIN_STATE/
+Documentacion Nanobot/
+TAREAS/
+bots/.skills/
+bots/FaLKiaN/
+bots/FaLKiaN-/
+bots/Insomnia2/
+bots/Juegos_mirc_bak/
+bots/Juegoss_mirc_bak/
+bots/MuLTiGaMe_mirc_bak/
+bots/MuLTiRaDio_mirc_bak/
+bots/Nuevos_Juegos/
+bots/PerLaNoReRo/
+bots/SaLoN/
+bots/SaLoN_bak/
+bots/SenTineLa/
+bots/SenTiNeLa-1.0/
+bots/prueba/
+bots/insomnio/
+
+# ── Claude ──────────────────────────────────────
+.claude/
+.claudeignore
+
+# ── Python venv ─────────────────────────────────
+.venv/
+venv/
+
+# ── Legacy copies / orphans ─────────────────────
+bots/Radio_Insomnia/
+bots/gemini/
+bots/gemini_vps_tmp*.py
+bots/futbot_vps_copy.py
+bots/indomita/seen.tcl
+bots/indomita/BAK/
+bots/bebesaurio/ident_history.json
+bots/bebesaurio/REPORTE_DUPLICADOS.txt
+
+# ── Runtime per-bot ─────────────────────────────
+bots/bebesaurio/*.json
+bots/*/autojoin.json
+bots/*/conversation_history.json
+bots/*/channel_states.json

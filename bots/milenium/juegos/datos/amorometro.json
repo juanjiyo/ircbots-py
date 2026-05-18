@@ -1,0 +1,31 @@
+{
+    "ind0mita-juanjo_jaen": {
+        "amor": 42,
+        "amistad": 95,
+        "trabajo": 35,
+        "confianza": 88,
+        "estabilidad": 93
+    },
+    "estreya-juanjo_jaen": {
+        "amor": 78,
+        "amistad": 58,
+        "trabajo": 56,
+        "confianza": 73,
+        "estabilidad": 14,
+        "pasion": 28,
+        "locura": 62,
+        "celos": 76,
+        "toxicidad": 50
+    },
+    "arianna-juanjo_jaen": {
+        "amor": 98,
+        "amistad": 87,
+        "trabajo": 7,
+        "confianza": 40,
+        "estabilidad": 69,
+        "pasion": 87,
+        "locura": 85,
+        "celos": 71,
+        "toxicidad": 80
+    }
+}

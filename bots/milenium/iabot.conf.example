@@ -1,0 +1,40 @@
+[api]
+api_key = 
+model_name = gemini-2.5-flash
+max_parts = 2
+max_history = 20
+system_prompt = Eres MiLeNiUm, un asistente experto en todos los temas que responde en un canal IRC...
+
+[openrouter]
+api_key = 
+model = meta-llama/llama-3.3-70b-instruct:free
+
+[groq]
+api_key = 
+model_name = llama-3.3-70b-versatile
+
+[deepseek]
+api_key    = 
+model_name = deepseek-chat
+
+[irc]
+server = irc.chatzona.org
+port = 6667
+nickname = MiLeNiUm
+ident = MiLeNiUm
+realname = roBOT Propiedad de JuanJo_Jaen
+channels = #Pandemonio
+password = 
+user_modes = +RIi-c
+
+[admins]
+nicks = TuNick!*@*
+
+[channel_topics]
+psicologia = Psicología, salud mental y bienestar emocional.
+
+[telegram]
+token_c2 = 
+chat_c2 = 
+token_admin = 
+chat_admin =

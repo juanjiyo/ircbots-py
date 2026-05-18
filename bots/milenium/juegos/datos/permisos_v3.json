@@ -1,0 +1,26 @@
+{
+    "roots": {},
+    "opers": {
+        "#boxitos": []
+    },
+    "settings": {
+        "#cultura": {
+            "stats": true,
+            "juegos": true
+        },
+        "#boxitos": {
+            "juegos": true,
+            "stats": true
+        },
+        "#debates": {
+            "juegos": true,
+            "amorometro": true
+        },
+        "#psicologia": {
+            "stats": true
+        }
+    },
+    "bot_roots": [],
+    "bot_admins": [],
+    "bot_opers": []
+}

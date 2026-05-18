@@ -1,0 +1,27 @@
+
+Copiar el archivo ahorcado.mrc en la carpeta de mirc o en la de addon
+de mirc.
+
+Para cargar el addon, poné este comando en cualquier ventana del 
+mirc, status, Query, Channel, etc. (Se recomienda ponerlo en status)
+
+/load -rs ahorcado.mrc
+
+
+
+Para jugar pone
+
+/horca
+
+
+
+Para quitar el addon pone este comando
+
+/unload -rs ahorcado.mrc
+
+
+****************************************
+* Add-om de ahorcado creado por Vago78 *
+* http://usuarios.lycos.es/epilef10    *
+* epilef10@hotmail.com                 *
+****************************************

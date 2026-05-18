@@ -1,0 +1,94 @@
+*********************************************
+* #Ai: Autoidentificación del modo +r 1.02   * 
+*                                           *
+*        para mIRC 5.8 o superiores         *
+*                                           *
+*                  por                      *
+*                                           *
+*            #Ayuda_internet                *
+*                                           *
+* Actualizado el 04-01-2004                 *
+*********************************************
+
+
+====================
+  AVISO IMPORTANTE
+====================
+
+Este add-on sólo se descarga única y exclusivamente de dos sitios:
+
+   * Página web del canal #Ayuda_Internet, http://www.ayuda-internet.net, sección Download.
+
+No me responsabilizo si sufrieras algún daño o pérdida de datos al bajarlo de otro lugar.
+
+El add-on SÓLO funciona con el mIRC 5.8 y sucesivas versiones.
+
+===============
+  Instalación
+===============
+
+1) Descomprime el fichero en el directorio donde tengas tu script o mIRC. Se creará
+   dentro de él un directorio con el nombre 'modor' el cual  contendrá
+   este mismo fichero y los siguientes:
+
+		modor.mrc
+                servidores.db
+
+
+2) Desde tu script o mIRC abierto has de escribir el siguiente comando:
+
+   //load -rs $findfile($mircdir,modor.mrc,1)
+
+   Escríbelo tal cual y con las dos //. Al hacerlo, el mIRC te avisa de que se va
+a cargar un script con comandos de inicialización, pon que sí. A continuación,
+verás una pantalla de presentación de instalación del add-on, presiona Aceptar
+si es tu deseo de instalarlo.
+
+======================================
+   Configuración  y  Desinstalación
+======================================
+
+Desde el menú principal de tu script(o tecleando /modor) accederás a un diálogo
+en el cual podrás añadir los nicks(así como sus contraseñas) que tengas registrados
+en las bases de datos distribuidas del iRC-Hispano(modo +r del nick). En cualquier
+momento puedes añadir y/o modificar nicks ya introducidos. La información del nick
+y la contraseña se guarda en el mismo directorio donde resida el addon: el fichero
+es claves.db, es un fichero simple de texto.
+
+Para desinstalar el add-on tan sólo presiona en el botón que hay para ello en el
+diálogo.
+
+NOTA: Este add-on NO identifica nicks ante el BOT NiCK@deep.space.
+
+======================================
+          Funcionamiento
+======================================
+
+El funcionamiento es simple, si la casilla 'Activar identificación' está marcada
+cada vez que se conecte al IRC y entremos con un nick configurado, la identificación
+será automática. También lo será cuando nos cambiemos el nick con el comando
+/nick nuevonick, si nuevonick reside en el diálogo se identificará solo. Ahora se puede
+configurar(tendrá efecto en quellos servidores actualizados) para que se identifique con
+"autoghost", esto quiere decir que si se queda el nick "colgado" por alguún motivo,
+primero hará un ghost del nick y luego la propia identificación.
+
+Activando la casilla 'Ver barra de conexión' aparecerá un barra de conexión(cada vez
+que se inicie el mIRC también, accesible con /bmodor) con el cual se podrá conectar al IRC.
+El hecho de tener una propia barra de conexión, es para evitar el problema tanto en
+scripts como en el mIRC, a la hora de tener configurados el nick con el que se quiere
+conectar y el alternativo, y los dos estén añadidos en el addon para la autoidentificación.
+En caso de no tener activada la barra, una solución para evitar el cambio al nick alternativo
+sería no indicándolo en el menú File->Options->Connect.
+
+Se ha incluido una lista de servidores con sus puertos de acceso del iRC-Hispano. Pueden
+añadirse nuevos servidores y modificarlos los ya existentes.
+
+En la configuración de los servidores del mIRC, File->Connect, aquellos que sean
+del iRC-Hispano, puedes editarlos, y en Group poned iRC-Hispano. Con ello, la identificación
+será un poco más rápida, en caso de conectar desde el propio mIRC.
+
+
+Comentarios, críticas y sugerencias a webmaster@ayuda-internet.net
+
+
+(©) #Ayuda_internet, 18-8-2001

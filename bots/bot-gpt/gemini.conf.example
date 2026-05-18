@@ -1,0 +1,31 @@
+[api]
+api_key = 
+model_name = gemini-2.5-flash
+max_parts = 2
+max_history = 20
+system_prompt = Eres BoT-GPT...
+
+[openrouter]
+api_key = 
+model = google/gemma-3-27b-it:free
+
+[groq]
+api_key = 
+model_name = llama-3.3-70b-versatile
+
+[deepseek]
+api_key    = 
+model_name = deepseek-chat
+
+[irc]
+server = irc.chathispano.com
+port = 6667
+nickname = BoT-GPT
+ident = BoT-GPT
+realname = Chatbot GPT
+channels = #canal
+password = 
+user_modes = +B-c
+
+[admins]
+nicks = TuNick

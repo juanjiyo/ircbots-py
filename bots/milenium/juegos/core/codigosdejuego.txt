@@ -1,0 +1,20 @@
+Euros - Saldo
+Tickets - Saldo
+Lingotes de Oro - Saldo
+Diamantes - Saldo
+Tiradas Disponibles
+Euros - Banco
+Tickets - Banco
+Lingotes de Oro - Banco
+Diamantes - Banco
+Disparos sin Morir
+Tiempo Maldición
+Tipo Amuleto
+10 Segundos de espera
+Fecha Tiradas Diarias
+Intentos de jugar sin Tiradas
+Código de la Caja Fuerte
+Intentos de que te roben la caja
+Última vez que ha jugado
+Número para Adivinar mayor o menor
+Cantidad de Aciertos del Número mayor o menor

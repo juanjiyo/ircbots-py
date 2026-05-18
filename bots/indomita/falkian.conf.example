@@ -1,0 +1,43 @@
+[irc]
+server   = irc.chatzona.org
+port     = 6667
+nickname = iND0MiTa
+ident    = iND0MiTa
+realname = Bot moderador de canales IRC.
+ssl      = False
+auth_pass = 
+user_modes = +BI-c
+
+[canales]
+principal = #Psicologia
+ops       = #Limbo
+debug     = #Pandemonio
+
+[roots]
+nicks = TuNick!*@*
+
+[settings]
+db_dir          = db/chatzona
+reconectar_seg  = 60
+rango_threshold = 3
+rango_ventana   = 600
+rango_duracion  = 900
+aka_ventana     = 900
+limpiabans_umbral    = 21600
+limpiabans_intervalo = 21600
+
+[gemini]
+api_key    = 
+model_name = gemini-2.5-flash
+
+[openrouter]
+api_key    = 
+model_name = meta-llama/llama-3.3-70b-instruct:free
+
+[groq]
+api_key    = 
+model_name = llama-3.3-70b-versatile
+
+[deepseek]
+api_key    = 
+model_name = deepseek-chat
