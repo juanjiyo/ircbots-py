@@ -109,6 +109,22 @@ bots/indomita/BAK/
 bots/bebesaurio/ident_history.json
 bots/bebesaurio/REPORTE_DUPLICADOS.txt
 
+# ── Documentación interna (solo local) ──────────
+AGENTS_COOP/
+ENGRAM_BACKUP.md
+GEMINI.md
+MEMORIA_ADMIN.md
+bots/*/MEMORIA_*.md
+SCRIPTS_UTILITY/
+TAREAS/
+BRAIN_STATE/
+referencias/
+reflexion/
+HOROSCOPO/
+"Documentacion Nanobot"/
+TESTS/*.txt
+scripts/*.txt
+
 # ── Runtime per-bot ─────────────────────────────
 bots/bebesaurio/*.json
 bots/*/autojoin.json
