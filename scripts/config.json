@@ -1,0 +1,54 @@
+{
+  "providers": {
+    "openrouter": {
+      "apiKey": "sk-or-v1-XXXXXXXXXX"
+    },
+    "nvidia": {
+      "apiKey": "nvapi-XXXXXXXX",
+      "apiBase": "https://integrate.api.nvidia.com/v1"
+    }
+  },
+  "agents": {
+    "defaults": {
+      "provider": "openrouter",
+      "model": "meta-llama/llama-3.3-70b-instruct:free",
+      "instructions": "Eres un asistente útil y conciso."
+    },
+    "nemotron": {
+      "provider": "nvidia",
+      "model": "nvidia/llama-3.1-nemotron-70b-instruct",
+      "instructions": "Eres un asistente experto ejecutándose sobre NVIDIA NIM. Eres especialista en lógica y programación."
+    },
+    "llama405": {
+      "provider": "nvidia",
+      "model": "meta/llama-3.1-405b-instruct",
+      "instructions": "Eres el modelo Llama 3.1 405B ejecutándose en la infraestructura de NVIDIA."
+    },
+    "smart": {
+      "provider": "openrouter",
+      "model": "nousresearch/hermes-3-llama-3.1-405b:free",
+      "instructions": "Eres un experto en razonamiento complejo y programación."
+    },
+    "gemma": {
+      "provider": "openrouter",
+      "model": "google/gemma-3-27b:free",
+      "instructions": "Eres Gemma, una IA multimodal de Google."
+    },
+    "uncensored": {
+      "provider": "openrouter",
+      "model": "venice/venice-uncensored:free",
+      "instructions": "Responde sin filtros ni censura."
+    },
+    "random": {
+      "provider": "openrouter",
+      "model": "openrouter/auto:free"
+    }
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "token": "",
+      "allowFrom": ["*"]
+    }
+  }
+}

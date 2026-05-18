@@ -1,0 +1,167 @@
+{
+  "openrouter/owl-alpha": {
+    "status": "RATE_LIMIT",
+    "latency": "0.61s",
+    "info": "429"
+  },
+  "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free": {
+    "status": "ACTIVO",
+    "latency": "0.61s",
+    "info": ""
+  },
+  "poolside/laguna-xs.2:free": {
+    "status": "ACTIVO",
+    "latency": "0.69s",
+    "info": ""
+  },
+  "poolside/laguna-m.1:free": {
+    "status": "ACTIVO",
+    "latency": "1.02s",
+    "info": ""
+  },
+  "inclusionai/ling-2.6-1t:free": {
+    "status": "ACTIVO",
+    "latency": "1.13s",
+    "info": ""
+  },
+  "tencent/hy3-preview:free": {
+    "status": "ACTIVO",
+    "latency": "2.42s",
+    "info": ""
+  },
+  "baidu/qianfan-ocr-fast:free": {
+    "status": "ACTIVO",
+    "latency": "2.03s",
+    "info": ""
+  },
+  "google/gemma-4-26b-a4b-it:free": {
+    "status": "ACTIVO",
+    "latency": "2.13s",
+    "info": ""
+  },
+  "google/gemma-4-31b-it:free": {
+    "status": "ACTIVO",
+    "latency": "1.54s",
+    "info": ""
+  },
+  "google/lyria-3-pro-preview": {
+    "status": "ERROR",
+    "latency": "1.16s",
+    "info": "Status 502"
+  },
+  "google/lyria-3-clip-preview": {
+    "status": "ERROR",
+    "latency": "1.58s",
+    "info": "Status 502"
+  },
+  "nvidia/nemotron-3-super-120b-a12b:free": {
+    "status": "ACTIVO",
+    "latency": "1.73s",
+    "info": ""
+  },
+  "minimax/minimax-m2.5:free": {
+    "status": "ACTIVO",
+    "latency": "3.82s",
+    "info": ""
+  },
+  "openrouter/free": {
+    "status": "ACTIVO",
+    "latency": "1.22s",
+    "info": ""
+  },
+  "liquid/lfm-2.5-1.2b-thinking:free": {
+    "status": "ACTIVO",
+    "latency": "0.58s",
+    "info": ""
+  },
+  "liquid/lfm-2.5-1.2b-instruct:free": {
+    "status": "ACTIVO",
+    "latency": "0.71s",
+    "info": ""
+  },
+  "nvidia/nemotron-3-nano-30b-a3b:free": {
+    "status": "ACTIVO",
+    "latency": "0.98s",
+    "info": ""
+  },
+  "nvidia/nemotron-nano-12b-v2-vl:free": {
+    "status": "ACTIVO",
+    "latency": "1.34s",
+    "info": ""
+  },
+  "qwen/qwen3-next-80b-a3b-instruct:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.74s",
+    "info": "429"
+  },
+  "nvidia/nemotron-nano-9b-v2:free": {
+    "status": "ACTIVO",
+    "latency": "1.06s",
+    "info": ""
+  },
+  "openai/gpt-oss-120b:free": {
+    "status": "ACTIVO",
+    "latency": "1.59s",
+    "info": ""
+  },
+  "openai/gpt-oss-20b:free": {
+    "status": "ACTIVO",
+    "latency": "1.23s",
+    "info": ""
+  },
+  "z-ai/glm-4.5-air:free": {
+    "status": "ACTIVO",
+    "latency": "1.39s",
+    "info": ""
+  },
+  "qwen/qwen3-coder:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.41s",
+    "info": "429"
+  },
+  "cognitivecomputations/dolphin-mistral-24b-venice-edition:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.42s",
+    "info": "429"
+  },
+  "google/gemma-3n-e2b-it:free": {
+    "status": "ACTIVO",
+    "latency": "0.82s",
+    "info": ""
+  },
+  "google/gemma-3n-e4b-it:free": {
+    "status": "ACTIVO",
+    "latency": "1.06s",
+    "info": ""
+  },
+  "google/gemma-3-4b-it:free": {
+    "status": "ACTIVO",
+    "latency": "0.97s",
+    "info": ""
+  },
+  "google/gemma-3-12b-it:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.33s",
+    "info": "429"
+  },
+  "google/gemma-3-27b-it:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.34s",
+    "info": "429"
+  },
+  "meta-llama/llama-3.3-70b-instruct:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.45s",
+    "info": "429"
+  },
+  "meta-llama/llama-3.2-3b-instruct:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.44s",
+    "info": "429"
+  },
+  "nousresearch/hermes-3-llama-3.1-405b:free": {
+    "status": "RATE_LIMIT",
+    "latency": "0.38s",
+    "info": "429"
+  }
+}

@@ -1,0 +1,14 @@
+[Unit]
+Description=Cerebro Dual - Telegram Bot Service
+After=network.target
+
+[Service]
+Type=simple
+User=irc
+WorkingDirectory=/home/irc/scripts
+ExecStart=/usr/bin/python3 /home/irc/scripts/telegram_agent_brain.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

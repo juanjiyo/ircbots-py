@@ -114,3 +114,13 @@ bots/bebesaurio/*.json
 bots/*/autojoin.json
 bots/*/conversation_history.json
 bots/*/channel_states.json
+
+# ── Pytest ──────────────────────────────────────
+.pytest_cache/
+
+# ── Temporary scripts at root ───────────────────
+fix_*.py
+patch_*.py
+redesign_*.py
+test_*.py
+lanzar_*.sh
