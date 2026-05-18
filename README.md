@@ -1,47 +1,51 @@
 # IRC Bots
 
-A collection of IRC bots built with modern JavaScript/TypeScript.
+Ecosistema de bots IRC modulares escritos en Python. Cada bot es autocontenido (`.py` + configuración) y se conecta a redes IRC como ChatZona o ChatHispano.
 
-## Features
+## Bots
 
-- Modular bot architecture
-- Easy to extend with new commands
-- Configurable settings
-- Multiple bot support
+| Bot | Red | Propósito |
+|-----|-----|-----------|
+| **MiLeNiUm** | ChatZona | Chatbot conversacional con IA multi-proveedor, clima y horóscopo |
+| **iND0MiTa** | ChatZona | Bot moderador con sanciones, protecciones y detección de evasión |
+| **BoT-GPT** | ChatHispano | Chatbot conversacional con IA |
+| **CiberBot** | ChatHispano | Asistente de ciberseguridad |
+| **TelegramBot** | Telegram | Bot puente entre IRC y Telegram |
 
-## Installation
+## Stack
 
-```bash
-npm install
-```
+- **Python 3.10+** — `irc.client`, `jaraco.stream`
+- **AI multi-proveedor** — NVIDIA, Groq, OpenRouter, Gemini, DeepSeek (vía `scripts/ia_central.py`)
+- **Testing** — pytest (ver `tests/`)
 
-## Usage
-
-```bash
-npm run dev
-```
-
-## Development
+## Requisitos
 
 ```bash
-# Run linter
-npm run lint
-
-# Run tests
-npm test
-
-# Build for production
-npm run build
+pip install -r requirements.txt
 ```
 
-## Contributing
+## Configuración
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+Cada bot tiene un archivo `.conf.example` en su directorio. Cópialo sin la extensión `.example` y rellena tus claves:
 
-## License
+```bash
+cp bots/milenium/iabot.conf.example bots/milenium/iabot.conf
+# Editar iabot.conf con tus API keys y datos de IRC
+```
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Uso
+
+```bash
+cd bots/milenium/
+python3 iabot.py
+```
+
+O en una sesión screen:
+
+```bash
+screen -dmS MiLeNiUm bash -c "cd bots/milenium && python3 iabot.py"
+```
+
+## Licencia
+
+Uso personal.
