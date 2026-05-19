@@ -111,6 +111,8 @@ bots/bebesaurio/REPORTE_DUPLICADOS.txt
 
 # ── Documentación interna (solo local) ──────────
 AGENTS_COOP/
+bots/IRC/clones_db.json
+bots/IRC/bot-clones.conf
 ENGRAM_BACKUP.md
 GEMINI.md
 MEMORIA_ADMIN.md
@@ -124,6 +126,11 @@ HOROSCOPO/
 "Documentacion Nanobot"/
 TESTS/*.txt
 scripts/*.txt
+
+# ── IRC/ — solo bot-clones.py trackeado ─────────
+bots/IRC/*
+!bots/IRC/bot-clones.py
+!bots/IRC/bot-clones.conf.example
 
 # ── Runtime per-bot ─────────────────────────────
 bots/bebesaurio/*.json

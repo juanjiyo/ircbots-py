@@ -1,0 +1,20 @@
+[irc]
+server = irc.sitiochat.es
+port = 6697
+ssl = true
+nickname = CLoNeS
+ident = clones
+realname = Gestion de clones
+nickserv_pass =
+oper_user =
+oper_pass =
+
+[settings]
+clones_conf = /home/irc/unrealircd/conf/clones.conf
+db_file = clones_db.json
+temp_days = 2
+rehash = true
+reconnect_delay = 10
+
+[admins]
+nicks = admin1, admin2
