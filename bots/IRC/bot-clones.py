@@ -460,7 +460,7 @@ class ClonesBot:
             self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x03Clones\x03 es un bot que administra las ilines de usuarios o corporativas.")
             self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x02Ordenes disponibles\x02:")
             self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312INFO\x03 Muestra la información de la iline")
-            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312INFO <IP>\x03 Muestra información de una IP específica")
+
             self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312ADD <IP> <N> <tiempo>\x03 Añade iline temporal (ej: 30d, 6m, 1y)")
             self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312PERM <IP> <N>\x03 Añade iline permanente")
             self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312DEL <IP>\x03 Elimina una iline")
@@ -499,17 +499,13 @@ class ClonesBot:
         elif cmd == "del" and len(args) == 2:
             self._notice(nick, self._del_entry(args[1]))
 
-        elif cmd in ("ipinfo", "info"):
-            if len(args) >= 2:
-                self._notice(nick, self._ip_info(args[1]))
+        elif cmd == "info":
+            nickmap = self._nickmap_get()
+            ip = nickmap.get(nick_lower)
+            if ip:
+                self._notice(nick, self._ip_info(ip))
             else:
-                # info sin args: buscar IP asignada al nick
-                nickmap = self._nickmap_get()
-                ip = nickmap.get(nick_lower)
-                if ip:
-                    self._notice(nick, self._ip_info(ip))
-                else:
-                    self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x034No tienes una IP asignada. Usa: info <IP>\x03")
+                self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x034No tienes una IP asignada.\x03")
 
         elif cmd == "list":
             self._notice(nick, self._list_all())
