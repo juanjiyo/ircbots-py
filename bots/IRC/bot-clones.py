@@ -17,6 +17,7 @@ import json
 import logging
 import os
 import re
+import ssl
 import sys
 import threading
 import time
@@ -90,8 +91,11 @@ class ClonesBot:
 
         try:
             if SSL:
+                ctx = ssl.create_default_context()
+                ctx.check_hostname = False
+                ctx.verify_mode = ssl.CERT_NONE
                 from irc.connection import Factory as IRCFactory
-                factory = IRCFactory(wrapper=ssl.wrap_socket)
+                factory = IRCFactory(wrapper=ctx.wrap_socket)
                 self.conn = self.reactor.server().connect(
                     SERVER, PORT, NICK,
                     ircname=REALNAME, username=IDENT,
