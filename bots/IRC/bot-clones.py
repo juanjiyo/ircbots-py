@@ -263,11 +263,11 @@ class ClonesBot:
     def _add_entry(self, ip: str, clones: int, tipo: str, autor: str) -> str:
         db = self._db_load()
         if ip in db:
-            return f"Ya existe una entrada para {ip}."
+            return f"\x030,3\x02 CLoNeS \x02\x03\x034Ya existe una entrada para {ip}.\x03"
 
         ok = self._write_allow(ip, clones)
         if CLONES_CONF and not ok:
-            return f"No se pudo escribir en {CLONES_CONF}."
+            return f"\x030,3\x02 CLoNeS \x02\x03\x034No se pudo escribir en {CLONES_CONF}.\x03"
 
         # Comando EXCEPTION ADD: EXCEPTION ADD <expiración> <mask> <límite> <razón>
         self._oper_cmd(f"EXCEPTION ADD +0 {ip} {clones} {autor} ({tipo})")
@@ -285,12 +285,12 @@ class ClonesBot:
             self.conn.send_raw("REHASH")
 
         log.info("Añadida %s: %s (%d clones) por %s", tipo.upper(), ip, clones, autor)
-        return f"Entrada {tipo.upper()} añadida para {ip} ({clones} clones)."
+        return f"\x030,3\x02 CLoNeS \x02\x03 \x0310Entrada {tipo.upper()} añadida para {ip} ({clones} clones).\x03"
 
     def _del_entry(self, ip: str) -> str:
         db = self._db_load()
         if ip not in db:
-            return f"No existe entrada para {ip}."
+            return f"\x030,3\x02 CLoNeS \x02\x03\x034No existe entrada para {ip}.\x03"
 
         self._remove_allow(ip)
         self._oper_cmd(f"EXCEPTION DEL +0 {ip}")
@@ -302,27 +302,40 @@ class ClonesBot:
             self.conn.send_raw("REHASH")
 
         log.info("Eliminada entrada para %s", ip)
-        return f"Entrada eliminada para {ip}."
+        return f"\x030,3\x02 CLoNeS \x02\x03 \x0310Entrada eliminada para {ip}.\x03"
+
+    def _c(self, msg: str, color: str = "") -> str:
+        """Envuelve un mensaje con colores IRC estilo ChatHispano."""
+        prefix = f"\x030,3\x02 CLoNeS \x02\x03" if not color else color
+        return f"{prefix}{msg}"
 
     def _ip_info(self, ip: str) -> str:
         db = self._db_load()
         e = db.get(ip)
         if not e:
-            return "IP no encontrada."
-        return (
-            f"IP: {e['ip']} | Clones: {e['clones']} | "
-            f"Tipo: {e['type'].upper()} | Autor: {e['author']} | "
-            f"Fecha: {e['timestamp']}"
-        )
+            return "\x030,3\x02 CLoNeS \x02\x03\x034IP no encontrada.\x03"
+        estado = "Active"
+        expire = e.get("timestamp", "N/A")
+        lines = [
+            f"\x030,3\x02 CLoNeS \x02\x03 Información de la iline:",
+            f"\x030,3\x02 CLoNeS \x02\x03 \x0312IP:\x03 {e['ip']}",
+            f"\x030,3\x02 CLoNeS \x02\x03 \x0312Clones:\x03 {e['clones']}",
+            f"\x030,3\x02 CLoNeS \x02\x03 \x0312Estado:\x03 {estado}",
+            f"\x030,3\x02 CLoNeS \x02\x03 \x0312Expiración:\x03 {'Permanente' if e['type'] == 'perm' else expire}",
+            f"\x030,3\x02 CLoNeS \x02\x03 Fin de la información.",
+        ]
+        return "\n".join(lines)
 
     def _list_all(self) -> str:
         db = self._db_load()
         if not db:
-            return "No hay entradas."
-        return " | ".join(
-            f"{ip}: {e['clones']} clones ({e['type'].upper()})"
-            for ip, e in db.items()
-        )
+            return "\x030,3\x02 CLoNeS \x02\x03 No hay entradas."
+        lines = [f"\x030,3\x02 CLoNeS \x02\x03 \x0312Lista de ilines activas:\x03"]
+        for ip, e in db.items():
+            lines.append(
+                f"\x030,3\x02 CLoNeS \x02\x03 {ip} → {e['clones']} clones ({e['type'].upper()})"
+            )
+        return "\n".join(lines)
 
     def _cleanup_expired(self) -> None:
         db = self._db_load()
@@ -363,17 +376,18 @@ class ClonesBot:
 
         # Solo admins pueden usar comandos
         if nick_lower not in ADMINS:
-            self._notice(nick, "No tienes permiso para usar este bot.")
             return
 
         if cmd in ("help", "ayuda"):
-            self._notice(nick, "Comandos disponibles:")
-            self._notice(nick, "  add <IP> <N>      — Excepción temporal (N clones, expira en días)")
-            self._notice(nick, "  perm <IP> <N>     — Excepción permanente (N clones)")
-            self._notice(nick, "  del <IP>           — Eliminar excepción")
-            self._notice(nick, "  ipinfo <IP>        — Información de una IP")
-            self._notice(nick, "  list               — Listar todas")
-            self._notice(nick, "  help / ayuda       — Esta ayuda")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x07Clones\x03 - \x07SitioChat")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x03Clones\x03 es un bot que administra las ilines de usuarios o corporativas.")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x02Ordenes disponibles\x02:")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312INFO\x03 Muestra la información de la iline")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312ADD\x03 Añade una iline temporal (2 días)")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312PERM\x03 Añade una iline permanente")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312DEL\x03 Elimina una iline")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03 \x0312LIST\x03 Lista todas las ilines")
+            self._notice(nick, "\x030,3\x02 CLoNeS \x02\x03\x02FIN de la AYUDA de \x03Clones")
 
         elif cmd in ("add", "perm") and len(args) == 3:
             ip = args[1]
@@ -392,7 +406,7 @@ class ClonesBot:
         elif cmd == "del" and len(args) == 2:
             self._notice(nick, self._del_entry(args[1]))
 
-        elif cmd == "ipinfo" and len(args) == 2:
+        elif cmd in ("ipinfo", "info") and len(args) == 2:
             self._notice(nick, self._ip_info(args[1]))
 
         elif cmd == "list":
